@@ -108,7 +108,9 @@ All Google Gemini API calls are securely proxied through a **Next.js API Route (
 
 ## Contact
 
-[Your Name/Alias] - [Your LinkedIn Profile URL (Optional)] - [Your Email Address (Optional)]
+Rutvik Parmar 
+Linked-In: [www.linkedin.com/in/rutvik-parmar-21b225196](https://www.linkedin.com/in/rutvik-parmar-21b225196)
+Email: rutvik.parmar.2103@gmail.com
 
 Project Link: [https://github.com/rutvikp003/Business-analyst.git](https://github.com/rutvikp003/Business-analyst.git)
 
